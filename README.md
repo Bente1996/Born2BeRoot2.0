@@ -13,6 +13,8 @@ Classic references related to topic
 https://apparmor.net/
 https://www.redhat.com/en/topics/linux/what-is-selinux
 https://www.redhat.com/en/blog/apparmor-selinux-isolation
+https://en.wikipedia.org/wiki/Uncomplicated_Firewall
+https://firewalld.org/
 
 No AI was used in the making of this project.
 
@@ -29,5 +31,6 @@ Comparisons:
   SELinux seperates containers by default, AppArmor doesn't.
   AppArmor can't be used in highly secure environments.
 - UFW vs Firewalld:
-  
+  UFW (Uncopmlicated Firewall) is an easy to user-friendly front-end for managing iptables (default firewall configuration tool for many Linux distributions).
+  UFW is easier to use. Firewalld is better documented so might be easier if you need something specific or don't use it often.
 - VirtualBox vs UTM:
