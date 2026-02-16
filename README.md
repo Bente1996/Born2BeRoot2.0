@@ -1,4 +1,4 @@
-# Born2BeRoot-2.0
+# Born2BeRoot2.0
 
 *This project has been created as part of the 42 curriculum by bede-kon.*
 
