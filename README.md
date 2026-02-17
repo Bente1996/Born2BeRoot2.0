@@ -15,6 +15,7 @@ https://www.redhat.com/en/topics/linux/what-is-selinux
 https://www.redhat.com/en/blog/apparmor-selinux-isolation
 https://en.wikipedia.org/wiki/Uncomplicated_Firewall
 https://firewalld.org/
+https://linuxhandbook.com/crontab/
 
 No AI was used in the making of this project.
 
