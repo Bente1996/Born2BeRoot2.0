@@ -26,16 +26,16 @@ Connecting to the machine via the regular terminal can be done by typing
 
 # Resources:
 
-[https://en.wikipedia.org/wiki/Firewall_(computing)#Packet_filter] - Firewall
-[https://noreply.gitbook.io/born2beroot] - B2BR tutorial
-[https://en.wikipedia.org/wiki/UTM_(software)] - UTM
-[https://en.wikipedia.org/wiki/VirtualBox] - VirtualBox
-[https://en.wikipedia.org/wiki/Hypervisor#Classification] - about hypervisors
-[https://apparmor.net/] - AppArmor
-[https://www.redhat.com/en/topics/linux/what-is-selinux] - SELinux
-[https://en.wikipedia.org/wiki/Uncomplicated_Firewall] - UFW
-[https://firewalld.org/] - Firewalld
-[https://linuxhandbook.com/crontab/] - Crontab
+[https://en.wikipedia.org/wiki/Firewall_(computing)#Packet_filter] -> Firewall
+[https://noreply.gitbook.io/born2beroot] -> B2BR tutorial
+[https://en.wikipedia.org/wiki/UTM_(software)] -> UTM
+[https://en.wikipedia.org/wiki/VirtualBox] -> VirtualBox
+[https://en.wikipedia.org/wiki/Hypervisor#Classification] -> about hypervisors
+[https://apparmor.net/] -> AppArmor
+[https://www.redhat.com/en/topics/linux/what-is-selinux] -> SELinux
+[https://en.wikipedia.org/wiki/Uncomplicated_Firewall] -> UFW
+[https://firewalld.org/] -> Firewalld
+[https://linuxhandbook.com/crontab/] -> Crontab
 
 No AI was involved in the making of this project.
 
